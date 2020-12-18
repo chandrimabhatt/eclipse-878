@@ -18,7 +18,7 @@ public class CountDiv {
     }
 	public static void main(String[] args)
 	{
-		System.out.println(solution(7,11,2));
+		System.out.println(solution(7,11,3));
 		
 	}
 
