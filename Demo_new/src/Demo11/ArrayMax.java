@@ -19,7 +19,7 @@ public class ArrayMax {
 	}
 public static void main(String[] args)
 {
-int arr[]= {2,9,10,7,100,200,256};
+int arr[]= {2,9,10,7,100,222,567};
 System.out.println(max(arr));
 }
 }
